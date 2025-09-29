@@ -2,7 +2,7 @@
 
 C++ Donkey Kong–style platformer.  
 **Authored core engine** (actor hierarchy, StudentWorld orchestrator, tick-based game loop, STL-based actor management, enemy AI, and safe memory lifecycle).  
-Framework and assets were provided by UCLA CS32.
+level00-sample, framework and assets were provided by UCLA CS32.
 
 ---
 
